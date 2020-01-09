@@ -1,9 +1,9 @@
 <html>
-	<body>
-		Recording some common shell code snipptes.</br>
-		</br>
-		<table border="1">
-			<tr>
+    <body>
+        Recording some common shell code snipptes.</br>
+        </br>
+        <table border="2">
+            <tr>
 				<th>文件名</th>
 				<th>功能关键词</th>
 			</tr>
