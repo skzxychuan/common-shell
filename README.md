@@ -19,6 +19,10 @@
 				<td>stopService.sh</td>
 				<td>停止服务</td>
 			</tr>
+            <tr>
+                <td>read_file_by_line.sh</td>
+                <td>逐行遍历文件</td>
+            </tr>
 		</table>
 	</body>
 </html>
