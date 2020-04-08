@@ -4,8 +4,8 @@
         </br>
         <table border="2">
             <tr>
-				<td>文件名</td>
-				<td>功能关键词</td>
+				<th>文件名</th>
+				<th>功能关键词</th>
 			</tr>
 			<tr>
 				<td>envCheck_ifContain.sh</td>
