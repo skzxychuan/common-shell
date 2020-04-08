@@ -4,8 +4,8 @@
         </br>
         <table border="2">
             <tr>
-				<th>文件名</th>
-				<th>功能关键词</th>
+				<td>文件名</td>
+				<td>功能关键词</td>
 			</tr>
 			<tr>
 				<td>envCheck_ifContain.sh</td>
@@ -22,6 +22,10 @@
             <tr>
                 <td>read_file_by_line.sh</td>
                 <td>逐行遍历文件</td>
+            </tr>
+            <tr>
+                <td>read_shell_param.sh</td>
+                <td>遍历脚本参数/kill yarn应用</td>
             </tr>
 		</table>
 	</body>
